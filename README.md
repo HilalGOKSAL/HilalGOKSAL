@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Data Analyst
+- 👋 Hi, I’m a Data Scientist
 - 
 - Here is something about me:
 - 
